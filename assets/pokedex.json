@@ -1,0 +1,69 @@
+{
+    "pokemons": 
+    [
+        {
+            "name": 
+            {
+                "english": "Bulbasaur"
+            },
+            "type": ["Grass", "Poison"]
+        },
+        {
+            "name": 
+            {
+                "english": "Ivysaur"
+            },
+            "type": ["Grass", "Poison"]
+        },
+        {
+            "name": 
+            {
+                "english": "Venusaur"
+            },
+            "type": ["Grass", "Poison"]
+        },
+        {
+            "name": 
+            {
+                "english": "Charmander"
+            },
+            "type": ["Fire"]
+        },
+        {
+            "name": 
+            {
+                "english": "Charmeleon"
+            },
+            "type": ["Fire"]
+        },
+        {
+            "name": 
+            {
+                "english": "Charizard"
+            },
+            "type": ["Fire"]
+        },
+        {
+            "name": 
+            {
+                "english": "Squirtle"
+            },
+            "type": ["Water"]
+        },
+        {
+            "name": 
+            {
+                "english": "Wartortle"
+            },
+            "type": ["Water"]
+        },
+        {
+            "name": 
+            {
+                "english": "Blastoise"
+            },
+            "type": ["Water"]
+        }
+    ]
+    
+}
